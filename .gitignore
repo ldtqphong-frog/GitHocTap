@@ -1,0 +1,9 @@
+# Bo qua file log
+*.log
+
+# Bo qua file moi truong
+.env
+*.env
+
+# Bo qua thu muc Python cache
+__pycache__/
